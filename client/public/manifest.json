@@ -1,0 +1,15 @@
+{
+  "short_name": "ShorChat",
+  "name": "ShorChat",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "233x233",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4287f5",
+  "background_color": "#4287f5"
+}
